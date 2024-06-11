@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Texture Trade
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 2100000, guid: f13a43d284430874fbb7805ccb1d82ee, type: 2}
+    - time: 0.16666667
+      value: {fileID: 2100000, guid: ba085147cb533954c9ba3c1bcc91dda3, type: 2}
+    - time: 0.33333334
+      value: {fileID: 2100000, guid: d8a7c5fa1861e344687197e8655bc931, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: 105beed01e31f314389ae6390c6f50f6, type: 2}
+    - time: 0.6666667
+      value: {fileID: 2100000, guid: 19f7055c76b94ab4c9d87f80c5654c63, type: 2}
+    - time: 0.8333333
+      value: {fileID: 2100000, guid: 5333f9d05aa29a8498d34c8ab2f032bc, type: 2}
+    - time: 1
+      value: {fileID: 2100000, guid: 8d66e67f0a767884d920162b02de954b, type: 2}
+    - time: 1.1833333
+      value: {fileID: 2100000, guid: 44f71f3c920921f4eb0f233740990900, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: Paw'vali Pajama/flip-flop
+    classID: 137
+    script: {fileID: 0}
+    flags: 2
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 2100000, guid: f0e6110cc22c7ad42859b793eb1af654, type: 2}
+    - time: 0.16666667
+      value: {fileID: 2100000, guid: 91befc371918d404d8e8269db7506fe9, type: 2}
+    - time: 0.33333334
+      value: {fileID: 2100000, guid: 463e773a7ac8f53499b6087a597f709b, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: e74a70b44ba0a884a8ac5f008a7f8549, type: 2}
+    - time: 0.6666667
+      value: {fileID: 2100000, guid: 159da29757baf6549bac3df3bf8e348a, type: 2}
+    - time: 0.8333333
+      value: {fileID: 2100000, guid: 49d10011939f28348963cb2db5bfe8f8, type: 2}
+    - time: 1
+      value: {fileID: 2100000, guid: 79ac06801d12fc248a0c47ca2eaf2875, type: 2}
+    - time: 1.1833333
+      value: {fileID: 2100000, guid: 3003ac4e164822c44aedfffa8a8f4884, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: Paw'vali Pajama/Pants
+    classID: 137
+    script: {fileID: 0}
+    flags: 2
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 36ff413a5f3a3e0409877ead8a7ca660, type: 2}
+    - time: 0.16666667
+      value: {fileID: 2100000, guid: 5f6ee4ded2092c84db6b4523cb9b064f, type: 2}
+    - time: 0.33333334
+      value: {fileID: 2100000, guid: 6a23c634fa01b784dbdc6d628ff16abd, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: bcbaa4416c8c4f145ac74cd9201c1985, type: 2}
+    - time: 0.6666667
+      value: {fileID: 2100000, guid: faf75b6b152542841bbd571255b530b6, type: 2}
+    - time: 0.8333333
+      value: {fileID: 2100000, guid: d257df4b12f29614d901ddfaeffe954f, type: 2}
+    - time: 1
+      value: {fileID: 2100000, guid: 61c2a785b5b6369418a2acf78662bd99, type: 2}
+    - time: 1.1833333
+      value: {fileID: 2100000, guid: 941ef2812b134284a9f3e0b888dd3943, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: Paw'vali Pajama/Pillow
+    classID: 137
+    script: {fileID: 0}
+    flags: 2
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 43ab259d84cf59b47b32e8b36b02f354, type: 2}
+    - time: 0.16666667
+      value: {fileID: 2100000, guid: 29b892ec8089ca84088c77f575bc2982, type: 2}
+    - time: 0.33333334
+      value: {fileID: 2100000, guid: f31fe0cad5c0a144ebcf1d0163179489, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: 0f3bb4fa91f102b42a48a0cd07ee987e, type: 2}
+    - time: 0.6666667
+      value: {fileID: 2100000, guid: 0f90ab4ed97776541aa18ed18bee504e, type: 2}
+    - time: 0.8333333
+      value: {fileID: 2100000, guid: 9512cd20b6df34e41b19c9ea4853dc7f, type: 2}
+    - time: 1
+      value: {fileID: 2100000, guid: fe265e4d33d19d04eaa242990bf2cfa7, type: 2}
+    - time: 1.1833333
+      value: {fileID: 2100000, guid: 005f3d655d3aed849a78a53f8775bcfb, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: Paw'vali Pajama/T-shirt
+    classID: 137
+    script: {fileID: 0}
+    flags: 2
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 2100000, guid: d1f80b5ae4cf63445a679b642abae594, type: 2}
+    - time: 0.16666667
+      value: {fileID: 2100000, guid: f5174be60ef751943bcd00496f469751, type: 2}
+    - time: 0.33333334
+      value: {fileID: 2100000, guid: 6bd4a622d65283741aaa180580b82e47, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: 78e954ec11a4318419c84c8ec19ec787, type: 2}
+    - time: 0.6666667
+      value: {fileID: 2100000, guid: c4df0c51ae3849d42b44d469b4d79ffd, type: 2}
+    - time: 0.8333333
+      value: {fileID: 2100000, guid: ed0b82e85d41c7043bdd5f74a111f5e5, type: 2}
+    - time: 1
+      value: {fileID: 2100000, guid: 0bb105b49adbbc146aaad08237357d06, type: 2}
+    - time: 1.1833333
+      value: {fileID: 2100000, guid: 0efae702385e178449847bd2687c3299, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: Paw'vali Pajama/Hat
+    classID: 137
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 2930240111
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 137
+      customType: 21
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 869992851
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 137
+      customType: 21
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 460144186
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 137
+      customType: 21
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 936615358
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 137
+      customType: 21
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2481564929
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 137
+      customType: 21
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 2100000, guid: f13a43d284430874fbb7805ccb1d82ee, type: 2}
+    - {fileID: 2100000, guid: ba085147cb533954c9ba3c1bcc91dda3, type: 2}
+    - {fileID: 2100000, guid: d8a7c5fa1861e344687197e8655bc931, type: 2}
+    - {fileID: 2100000, guid: 105beed01e31f314389ae6390c6f50f6, type: 2}
+    - {fileID: 2100000, guid: 19f7055c76b94ab4c9d87f80c5654c63, type: 2}
+    - {fileID: 2100000, guid: 5333f9d05aa29a8498d34c8ab2f032bc, type: 2}
+    - {fileID: 2100000, guid: 8d66e67f0a767884d920162b02de954b, type: 2}
+    - {fileID: 2100000, guid: 44f71f3c920921f4eb0f233740990900, type: 2}
+    - {fileID: 2100000, guid: f0e6110cc22c7ad42859b793eb1af654, type: 2}
+    - {fileID: 2100000, guid: 91befc371918d404d8e8269db7506fe9, type: 2}
+    - {fileID: 2100000, guid: 463e773a7ac8f53499b6087a597f709b, type: 2}
+    - {fileID: 2100000, guid: e74a70b44ba0a884a8ac5f008a7f8549, type: 2}
+    - {fileID: 2100000, guid: 159da29757baf6549bac3df3bf8e348a, type: 2}
+    - {fileID: 2100000, guid: 49d10011939f28348963cb2db5bfe8f8, type: 2}
+    - {fileID: 2100000, guid: 79ac06801d12fc248a0c47ca2eaf2875, type: 2}
+    - {fileID: 2100000, guid: 3003ac4e164822c44aedfffa8a8f4884, type: 2}
+    - {fileID: 2100000, guid: 36ff413a5f3a3e0409877ead8a7ca660, type: 2}
+    - {fileID: 2100000, guid: 5f6ee4ded2092c84db6b4523cb9b064f, type: 2}
+    - {fileID: 2100000, guid: 6a23c634fa01b784dbdc6d628ff16abd, type: 2}
+    - {fileID: 2100000, guid: bcbaa4416c8c4f145ac74cd9201c1985, type: 2}
+    - {fileID: 2100000, guid: faf75b6b152542841bbd571255b530b6, type: 2}
+    - {fileID: 2100000, guid: d257df4b12f29614d901ddfaeffe954f, type: 2}
+    - {fileID: 2100000, guid: 61c2a785b5b6369418a2acf78662bd99, type: 2}
+    - {fileID: 2100000, guid: 941ef2812b134284a9f3e0b888dd3943, type: 2}
+    - {fileID: 2100000, guid: 43ab259d84cf59b47b32e8b36b02f354, type: 2}
+    - {fileID: 2100000, guid: 29b892ec8089ca84088c77f575bc2982, type: 2}
+    - {fileID: 2100000, guid: f31fe0cad5c0a144ebcf1d0163179489, type: 2}
+    - {fileID: 2100000, guid: 0f3bb4fa91f102b42a48a0cd07ee987e, type: 2}
+    - {fileID: 2100000, guid: 0f90ab4ed97776541aa18ed18bee504e, type: 2}
+    - {fileID: 2100000, guid: 9512cd20b6df34e41b19c9ea4853dc7f, type: 2}
+    - {fileID: 2100000, guid: fe265e4d33d19d04eaa242990bf2cfa7, type: 2}
+    - {fileID: 2100000, guid: 005f3d655d3aed849a78a53f8775bcfb, type: 2}
+    - {fileID: 2100000, guid: d1f80b5ae4cf63445a679b642abae594, type: 2}
+    - {fileID: 2100000, guid: f5174be60ef751943bcd00496f469751, type: 2}
+    - {fileID: 2100000, guid: 6bd4a622d65283741aaa180580b82e47, type: 2}
+    - {fileID: 2100000, guid: 78e954ec11a4318419c84c8ec19ec787, type: 2}
+    - {fileID: 2100000, guid: c4df0c51ae3849d42b44d469b4d79ffd, type: 2}
+    - {fileID: 2100000, guid: ed0b82e85d41c7043bdd5f74a111f5e5, type: 2}
+    - {fileID: 2100000, guid: 0bb105b49adbbc146aaad08237357d06, type: 2}
+    - {fileID: 2100000, guid: 0efae702385e178449847bd2687c3299, type: 2}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.1999999
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flip-Flop
+  m_Shader: {fileID: 4800000, guid: 0b7113dea2069fc4e8943843eff19f70, type: 3}
+  m_Parent: {fileID: 2100000, guid: f31fe0cad5c0a144ebcf1d0163179489, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _EMISSION
+  m_InvalidKeywords:
+  - _NORMALMAP
+  - _TPS_ANIMATEDTOGGLE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    AllLockedGUIDS: ba085147cb533954c9ba3c1bcc91dda3,d8a7c5fa1861e344687197e8655bc931,105beed01e31f314389ae6390c6f50f6,19f7055c76b94ab4c9d87f80c5654c63,8d66e67f0a767884d920162b02de954b,44f71f3c920921f4eb0f233740990900,29b892ec8089ca84088c77f575bc2982,f31fe0cad5c0a144ebcf1d0163179489,0f3bb4fa91f102b42a48a0cd07ee987e,0f90ab4ed97776541aa18ed18bee504e,fe265e4d33d19d04eaa242990bf2cfa7,005f3d655d3aed849a78a53f8775bcfb,f5174be60ef751943bcd00496f469751,6bd4a622d65283741aaa180580b82e47,78e954ec11a4318419c84c8ec19ec787,c4df0c51ae3849d42b44d469b4d79ffd,0bb105b49adbbc146aaad08237357d06,0efae702385e178449847bd2687c3299
+    OriginalKeywords: DISTORT VIGNETTE_MASKED _GLOSSYREFLECTIONS_OFF _LIGHTINGMODE_SHADEMAP
+      _RIM2STYLE_POIYOMI _RIMSTYLE_POIYOMI _STOCHASTICMODE_DELIOT_HEITZ _TPS_ANIMATEDTOGGLE_ON
+    OriginalShader: .poiyomi/Old Versions/8.2/Poiyomi Pro
+    OriginalShaderGUID: 76a3501b6f96f874abe72562d44fcceb
+    RenderType: Opaque
+    _DissolveAlphaAnimated: 1
+    _EmissionStrength1Animated: 1
+    _EmissionStrength2Animated: 1
+    _EmissionStrength3Animated: 1
+    _EmissionStrengthAnimated: 1
+  disabledShaderPasses: []
+  m_LockedProperties: _EnableOutlines
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 9d57fd5e7f9a6174d9a7913483b7a324, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveToTexture:
+        m_Texture: {fileID: 2800000, guid: 4637cb7dce1103e478b89f5bfe1074c8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 0851f0faafdbcce4ea55d9ff0998858b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ShaderOptimizerEnabled: 1
+    m_Colors: []
+  m_BuildTextureStacks: []
